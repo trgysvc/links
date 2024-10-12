@@ -23,11 +23,6 @@
   icon: ri:codepen-fill
   color: '#E4405F'
 
-- name: x
-  url: https://x.com/trgysvc
-  icon: ri:twitter-x-fill
-  color: '#1D9BF0'
-
 - name: mastodon
   url: https://mastodon.social/@trgysvc
   icon: ri:mastodon-fill
