@@ -29,7 +29,7 @@
   color: '#1D9BF0'
 
 - name: mastodon
-  url: https://mastodon.social/@example
+  url: https://mastodon.social/@trgysvc
   icon: ri:mastodon-fill
   color: '#6364FF'
 
@@ -43,3 +43,7 @@
   icon: ri:medium-fill
   color: '#25D366'
   
+  - name: itch
+  url: https://trgysvc.itch.io
+  icon: la:itch-io
+  color: '#FF0000'
