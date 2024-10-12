@@ -33,12 +33,12 @@
   icon: ri:mastodon-fill
   color: '#6364FF'
 
-- name: dev.to
+- name: dev
   url: https://dev.to/turgaysavaci
   icon: skill-icons:devto-dark
   color: '#25D366'
 
-- name: dev.to
+- name: medium
   url: https://medium.com/@turgaysavaci
   icon: ri:medium-fill
   color: '#25D366'
@@ -46,4 +46,4 @@
   - name: itch
   url: https://trgysvc.itch.io
   icon: la:itch-io
-  color: '#FF0000'
+  color: '#E4405F'
